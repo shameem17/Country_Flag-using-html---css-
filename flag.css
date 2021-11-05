@@ -1,0 +1,156 @@
+*{
+	margin: 0px 0px 0px 1px;
+	padding: 0px;
+}
+h1{
+	color: white;
+	background-color: darkred;
+	margin: 1px 1px 3px 1px;
+	padding: 1px;
+	font-size: 50px;
+}
+p{
+	font-size: 20px;
+}
+div
+{
+	height: 360px;
+}
+.one_mali{
+	color: white;
+	width: 200px;
+	background-color: #00A650;
+
+}
+.two_mali{
+	color: white;
+	width: 200px;
+	background-color:yellow;
+	position: relative;
+	margin-left: 200px;
+	margin-top:-360px ;
+}
+.three_mali{
+	color: white;
+	width: 200px;
+	background-color:red;
+	position: relative;
+	margin-left: 400px;
+	margin-top: -360px;
+}
+.one_colombia{
+	color: white;
+	width: 600px;
+	height: 180px;
+	position: relative;
+	margin-left: 700px;
+	background-color: yellow;
+	margin-top: -375px;
+}
+.two_colombia{
+	color: white;
+	width: 600px;
+	height: 90px;
+	position: relative;
+	margin-left: 700px;
+	background-color: blue;
+}
+.three_colombia{
+	color:white;
+	width: 600px;
+	height: 90px;
+	position: relative;
+	margin-left: 700px;
+	background-color: red;
+}
+.bd_one{
+	color: white;
+	position: relative;
+	margin-top: 40px;
+	width: 600px;
+	height: 360px;
+	background-color: green;
+
+}
+.bd_two{
+	color:white;
+	position: relative;
+	background-color: red;
+	width: 200px;
+	height: 200px;
+	margin-top: -280px;
+	margin-left: 130px;
+	border-radius: 500px;
+}
+.one_gambia{
+	color:white;
+	position: relative;
+	background-color: #ED1C24;
+	width: 600px;
+	height: 110px;
+	margin-left: 700px;
+	margin-top: -400px;
+}
+.two_gambia{
+	color: white;
+	position: relative;
+	margin-top: 10px;
+	height: 80px;
+	margin-left: 700px;
+	background-color: #0066B3;
+	width: 600px;
+}
+.three_gambia{
+	color: white;
+	position: relative;
+	margin-top: 10px;
+	height: 120px;
+	margin-left: 700px;
+	width: 600px;
+	background-color: #00A651;
+}
+.one_gb{
+	color:white;
+	position: relative;
+	background-color: #ED1C24;
+	width: 170px;
+	height: 360px;
+	margin-top: -780px;
+	margin-left: 1400px; 
+}
+.two_gb{
+	color:white;
+	position: relative;
+	background-color: yellow;
+	width:530px;
+	height: 180px;
+	margin-left: 1570px;
+	margin-top: -360px;
+	
+}
+.three_gb{
+	color:white;
+	position: relative;
+	background-color: #00A651;
+	width: 530px;
+	height: 180px;
+	margin-left: 1570px;
+	
+}
+.one_maldivs{
+	color:white;
+	background-color: #ED1C24;
+	width: 700px;
+	position: relative;
+	margin-left: 1400px;
+}
+.two_maldivs{
+	color:white;
+	background-color: #00A650;
+	width: 500px;
+	height: 240px;
+	position: relative;
+	margin-left: 1500px;
+	margin-top: -300px;
+}
+
